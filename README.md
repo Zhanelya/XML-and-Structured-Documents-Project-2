@@ -13,7 +13,7 @@ represents a sentence, containing possibly many children <w> representing words 
 
 #####Tasks accomplished for this project:
 
-1.Produced a .xquery file containing a XQuery FLWOR expression which returns all the occurrences of the word ’has’ in the collection of files, together with the word which comes next in the sentence in each
+1. Produced a .xquery file containing a XQuery FLWOR expression which returns all the occurrences of the word ’has’ in the collection of files, together with the word which comes next in the sentence in each
 case. The resulting list is formatted as a HTML table, with each row containing the two words in their own cells, e.g.:
 
 Target Successor
