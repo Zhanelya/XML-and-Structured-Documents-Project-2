@@ -9,7 +9,7 @@ a schema:
 • \<s> 
 represents a sentence, containing possibly many children <w> representing words in linear order;
 
-• \<w>YYY</w> represents word YYY.
+• \<w>YYY\</w> represents word YYY.
 
 #####Tasks accomplished for this project:
 
