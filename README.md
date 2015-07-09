@@ -6,9 +6,11 @@ This project implements XQuery expressions to extract useful information from so
 These are real datafiles from the British National Corpus, a collection of English language data widely used by linguists and computational linguists, together with
 a schema:
 
-• <s> represents a sentence, containing possibly many children <w> representing words in linear order;
+• <s> 
+represents a sentence, containing possibly many children <w> representing words in linear order;
 
-• <w>YYY</w> represents word YYY.
+• <w>YYY</w> 
+represents word YYY.
 
 #####Tasks accomplished for this project:
 
